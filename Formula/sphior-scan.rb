@@ -3,8 +3,8 @@
 class SphiorScan < Formula
   desc "Deterministic security scanner for secrets, CWE patterns and taint flows"
   homepage "https://sphior.com/code"
-  url "https://registry.npmjs.org/@sphior/scan/-/scan-0.1.9.tgz"
-  sha256 "b866ebe887bb8d62f8fe5af880d69761f8721fd3ebd93a011f6dddf673e5ce93"
+  url "https://registry.npmjs.org/@sphior/scan/-/scan-0.1.11.tgz"
+  sha256 "e96135257690e87fa46ae0f04ba8e01db4141f90e5159905cd26b8fbdb75911b"
   license "MIT"
 
   depends_on "node"
